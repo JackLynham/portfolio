@@ -10,7 +10,7 @@ tag:
 - Space Invaders
 - Game Programming
 comments: true
-published: true
+published: false
 ---
 **Breakout Game** The game Space Invaders. This is a single player shoot-em game. The lasers are fired from the player ship at the bottom of the screen. The enemy or UFO shoot lasers back at the player and can be killed by the player lasers. Once all the UFPO have been shot, the UFO have fallen down the screen so they collide with the player or that the player is shot by an UFO laser the game ends.<br/>
 
