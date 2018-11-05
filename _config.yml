@@ -8,7 +8,7 @@ logo:               'assets/img/profile_1.jpg'
 background:         'assets/img/doom_backdrop.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://jack-king1.github.io
+url:                https://jack-lynham.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -40,7 +40,7 @@ disqus_shortname:
 #email:
 twitter:            
 #facebook:           username
-github-url:         Jack-king1
+github-url:         jack-lynham
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:           huxyuk
 #xing:              username
