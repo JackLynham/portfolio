@@ -9,7 +9,7 @@ tag:
 - low level programming
 - Nemo Game
 comments: true
-published: true
+published: false
 ---
 **Nemo Game** The "Nemo Game" involves a fish and the players mouse. The fish spawns at a random height within the game window. The users goal is then to be ablew to click the fish. If the user fails to click the fish before it exits the screen the fish will loop back around to the left side of the screen. (The fish travels left to right).<br/>
 
